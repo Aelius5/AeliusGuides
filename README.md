@@ -7,3 +7,5 @@ This is a collection of things I've learned how to do over my time doing things 
 Each guide contains a main article, a simple list of to-dos and some extra items if I believe they're necessary. 
 
 A different version of the guide (which can be used in your favorite markdown compatible text viewing software) is available in this repository.
+
+This is currently in *Version Zero*.
