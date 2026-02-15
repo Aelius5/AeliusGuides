@@ -25,13 +25,28 @@ italic {
 #guides-list li a {
     border: 1px solid;
     margin-top: -1px;
-    background-color: #5b5968;
+    background-color: #444452;
     font-size: 120%;
     padding: 1%;
     display: block;
     color: #d444de;    
 }
+a {
+    color: #d444de;  
+}
 #guides-list li a:hover:not(.header) {
     background-color: #d444de;
     color: #5b5968;
+} /*why must i do this*/
+a:hover:not(.header) {
+    background-color: #d444de;
+    color: #5b5968;
+}
+h1 {
+    background: url(images&others/header_bg.png) 0 0 no-repeat;
+    background-size: 80%;
+}
+h4 {
+    font-style: italic;
+    font-weight: normal;
 }
