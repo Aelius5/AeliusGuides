@@ -8,4 +8,4 @@ Each guide contains a main article, a simple list of to-dos and some extra items
 
 A different version of the guide (which can be used in your favorite markdown compatible text viewing software) is available in this repository.
 
-This is currently in *Version Zero*.
+This is currently in **Version Zero**.
