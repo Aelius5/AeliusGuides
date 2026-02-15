@@ -6,4 +6,5 @@
 <body>
     <h1>Where are we</h1>
     (404)
+    <ul id='box-list'><li><a href="main">Go home</a></li></ul>
 </body>

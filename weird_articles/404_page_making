@@ -12,4 +12,14 @@
         <li>The rules in the file apply to the current and sub directories.</li>
         <li>The file can only be name '.htaccess'. ONLY '.htaccess'. Nothing else.</li>
     </ol>
+    Now, to make an error page, you need to write: <code_snippet>ErrorDocument 404 /[name of 404 page].html</code_snippet>.
+    <br><br>
+    Yep. That's it.<br><br>
+    Anyway, there are other things you can do with .htaccess. <br>
+    <italic>Let's go through them.</italic>
+    <ul>
+        <li>Handle any error by typing a different error code into the space after ErrorDocument. Example: <code_snippet>ErrorDocument 503 /[name of 503 page].html.</code_snippet></li> A list of error codes can be found <href>
+    </ul>
+    <br><br><br>
+    <ul id='box-list'><li><a href="..\main">Go home</a></li></ul>
 </body>

@@ -11,8 +11,8 @@
     <h1>This website will contain fun things I choose to make from time to time.<br>
     <br><br>
     </h1>
-    <ul id='guides-list'>
-        <li><a href="not_main.html">a</a></li>
-        <li><a href="not_main.html">b</a></li>
-        <li><a href="main.html"><h1>cccccccccccccccccccccccccccccccccccccccccc</h1></a></li>
+    <ul id='box-list'>
+        <li><a href="not_main">a</a></li>
+        <li><a href="not_main">b</a></li>
+        <li><a href="main"><h1>cccccccccccccccccccccccccccccccccccccccccc</h1></a></li>
 </body>

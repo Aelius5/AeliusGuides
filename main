@@ -11,9 +11,9 @@
     This website will contain fun things I choose to make from time to time.<br>
     <br><br>
 
-    <ul id='guides-list'>
-        <li><a href="cursed.html">Cursed</a></li>
+    <ul id='box-list'>
+        <li><a href="cursed">Cursed</a></li>
         <li><a href="weird_articles/interesting_css_effects">Interesting CSS effects</a></li>
-        <li><a href="weird_articles/404_page_making.html">How to make a 404 page (& other things to do with .htaccess)</a></li>
+        <li><a href="weird_articles/404_page_making">How to make a 404 page (& other things to do with .htaccess)</a></li>
     </ul>
 </body>

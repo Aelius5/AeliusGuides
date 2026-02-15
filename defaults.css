@@ -4,7 +4,7 @@ h1{
 body {
     font-family: Arial, Helvetica, sans-serif;
     width: 75%;
-    margin: auto;
+    margin: 0 auto;
     margin-top: 1%;
     background-color: #2c2b36;
     font-size: 120%;
@@ -17,28 +17,28 @@ version {
 italic {
     font-style: italic;
 }
-#guides-list {
+#box-list {
     list-style-type: none;
     padding: 0;
     margin: 0;
 }
-#guides-list li a {
+#box-list li a {
     border: 1px solid;
     margin-top: -1px;
     background-color: #444452;
     font-size: 120%;
     padding: 1%;
     display: block;
-    color: #d444de;    
+    color: #d444de;
 }
 a {
     color: #d444de;  
 }
-#guides-list li a:hover:not(.header) {
+#box-list li a:hover {
     background-color: #d444de;
     color: #5b5968;
 } /*why must i do this*/
-a:hover:not(.header) {
+a:hover{
     background-color: #d444de;
     color: #5b5968;
 }
@@ -49,4 +49,21 @@ h1 {
 h4 {
     font-style: italic;
     font-weight: normal;
+}
+code_snippet{
+    font-family: 'Times New Roman', Times, serif;
+    background-color: #444452;
+}
+code_snippet:hover {
+    color: #d444de;
+}
+box {
+    border: 1px solid;
+    margin-top: -1px;
+    background-color: #444452;
+    font-size: 120%;
+    padding: 1%;
+    display: block;
+    color: #d444de;
+    
 }
