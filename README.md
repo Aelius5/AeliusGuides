@@ -1,4 +1,4 @@
-#My magnum opus
+<h1>My magnum opus</h1>
 
 AeliusGuides is a website which will or does contain useful guides on how to do various things ranging from _ to _.
 
