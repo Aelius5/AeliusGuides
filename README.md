@@ -1,4 +1,4 @@
-<h1>My magnum opus</h1>
+<h1>My website</h1>
 
 Aelius5
 
